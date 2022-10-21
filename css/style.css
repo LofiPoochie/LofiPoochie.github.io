@@ -728,11 +728,11 @@ textarea {
     margin-bottom: 1.5rem;
     margin-right: 1.5rem;
     font-size: 1.6rem;
-    background: rgba(153, 153, 153, 0.2);
+    background: rgba(9, 197, 230, 0.8);
     border-radius: 5px;
     font-weight: 600;
     box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.15);
-    color: #777; }
+    color: #fff; }
     .skills__skill:hover {
       color: #e024d0;
       background: rgb(131,12,201);
